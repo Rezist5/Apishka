@@ -80,6 +80,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **Author:** Ruslan
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **Authors:** Ruslan, Ivan
+- **Email:** [satybaldiew.ruslan@gmail.com](mailto:satybaldiew.ruslan@gmail.com), [satybaldiew.ruslan@gmail.com](mailto:satybaldiew.ruslan@gmail.com),
 - **GitHub:** [your-username](https://github.com/your-username)
